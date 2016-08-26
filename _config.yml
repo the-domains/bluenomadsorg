@@ -1,3 +1,4 @@
+layout_spectrum: 0.8653249847702682
 typography_spectrum: 0.6708891831804067
 color:
   brandStrength: 0.26176697039045393
@@ -10,7 +11,4 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-layout_spectrum: 0.8653249847702682
 name: BlueNomadsOrg
-title: BlueNomads.Org
-description: D I V I N G 2.0
