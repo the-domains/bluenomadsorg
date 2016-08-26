@@ -1,4 +1,3 @@
-layout_spectrum: 0.8653249847702682
 typography_spectrum: 0.6708891831804067
 color:
   brandStrength: 0.26176697039045393
@@ -6,9 +5,11 @@ color:
   saturation: 0.6942697851918638
   rhythmicContrast: 0.7211838120128959
   brandColors:
-    - '#181927'
-    - '#363A61'
-    - '#D9E8F5'
-    - '#7E85BD'
-    - '#ACB8C7'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+layout_spectrum: 0.8653249847702682
 name: BlueNomadsOrg
+title: BlueNomads.Org
